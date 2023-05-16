@@ -1,0 +1,13 @@
+body {
+    margin: 0px;
+}
+
+.top-bar {
+    background-color: #23282E; 
+    color: white;
+}
+
+.dark-section {
+    background-color: black; 
+    color: white
+}
